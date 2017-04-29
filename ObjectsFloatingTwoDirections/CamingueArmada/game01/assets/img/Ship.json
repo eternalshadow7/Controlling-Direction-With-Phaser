@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "Ship.png",
+	"frame": {"x":0,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Ship.png",
+	"format": "RGBA8888",
+	"size": {"w":48,"h":48},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:125713bd8265286c8b4992e83df502c5:707e2ae0e261260be5fcc99c93ce02ef:37953e954553879d36feb6401177773c$"
+}
+}
